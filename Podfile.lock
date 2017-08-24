@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (4.5.0)
+  - CNPPopupController (0.3.3)
+  - Kingfisher (3.10.4)
+  - PageMenu (2.0.0)
+  - PKHUD (4.2.3)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - CNPPopupController
+  - Kingfisher
+  - PageMenu
+  - PKHUD (~> 4.0)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  CNPPopupController: 59b06290762f68beab5fb0bbfa87eb4dcbefb7de
+  Kingfisher: dc3a4983e86d2dfa89513664983a82340c11a289
+  PageMenu: 9c38fd7e0d9ef4b1408320f55bb907bbc0e538dc
+  PKHUD: c7692163a09875cbf15827dc581df3c5cf7f1015
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 5d3245d8d396e80f4e6d29a4ecb1fbe6dd832828
+
+COCOAPODS: 1.2.1

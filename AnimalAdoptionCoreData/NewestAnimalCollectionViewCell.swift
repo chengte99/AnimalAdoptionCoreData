@@ -10,4 +10,8 @@ import UIKit
 
 class NewestAnimalCollectionViewCell: UICollectionViewCell {
     
+    @IBOutlet weak var imgPic: UIImageView!
+    @IBOutlet weak var labelAddress: UILabel!
+    @IBOutlet weak var labelSex: UILabel!
+    @IBOutlet weak var labelOpenDate: UILabel!
 }

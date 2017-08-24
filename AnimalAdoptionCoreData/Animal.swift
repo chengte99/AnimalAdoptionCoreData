@@ -20,6 +20,7 @@ class Animal{
     var animal_age: String?
     var animal_sterilization: String?
     var animal_bacterin: String?
+    var animal_remark: String?
     var animal_opendate: String?
     var shelter_name: String?
     var album_file: String?
@@ -38,6 +39,7 @@ class Animal{
         self.animal_age = json["animal_age"].string
         self.animal_sterilization = json["animal_sterilization"].string
         self.animal_bacterin = json["animal_bacterin"].string
+        self.animal_remark = json["animal_remark"].string
         self.animal_opendate = json["animal_opendate"].string
         self.shelter_name = json["shelter_name"].string
         self.album_file = json["album_file"].string

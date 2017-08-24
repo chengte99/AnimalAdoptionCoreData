@@ -10,6 +10,12 @@ import UIKit
 
 class FavoriteTableViewCell: UITableViewCell {
 
+    @IBOutlet weak var imgPic: UIImageView!
+    @IBOutlet weak var labelKind: UILabel!
+    @IBOutlet weak var labelSex: UILabel!
+    @IBOutlet weak var labelShelterName: UILabel!
+    @IBOutlet weak var labelBodyType: UILabel!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code

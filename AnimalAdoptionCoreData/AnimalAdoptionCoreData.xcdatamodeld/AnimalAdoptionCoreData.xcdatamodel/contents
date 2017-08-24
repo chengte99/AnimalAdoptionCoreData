@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1" systemVersion="11A491" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
-    <elements/>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Favorite" representedClassName="Favorite" syncable="YES" codeGenerationType="class">
+        <attribute name="album_file" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="animal_age" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="animal_bacterin" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="animal_bodytype" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="animal_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="animal_kind" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="animal_remark" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="animal_sex" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="animal_sterilization" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="animal_subid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="shelter_address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="shelter_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="shelter_tel" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Favorite" positionX="-63" positionY="-18" width="128" height="240"/>
+    </elements>
 </model>
